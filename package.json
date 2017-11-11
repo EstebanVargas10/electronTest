@@ -4,7 +4,7 @@
     "description": "Electron Demo",
     "main": "main.js",
     "scripts": {
-        "pack": "electron-packager . 'Web Demo' --out ~/Desktop/ --overwrite"
+        "pack": "electron-packager . 'Web Demo' --out C:\\Users\\USER\\Desktop --overwrite"
     },
     "devDependencies": {
         "electron": "^1.7.9",
